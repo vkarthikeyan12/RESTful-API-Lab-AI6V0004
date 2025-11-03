@@ -78,12 +78,15 @@ Follow proper JSON formatting while sending data in POST/PUT requests.
 Make sure to install all dependencies before running the API.
 
 ### Author
+```
 Karthikeyan V
-Asst. Professor – JD College \n
+Asst. Professor – JD College 
 kvenkatesan@jdcoem.ac.in
+```
 
 ### License
 
 This repository is open for educational purposes only.
+
 
 
