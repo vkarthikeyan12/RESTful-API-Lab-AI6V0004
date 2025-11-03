@@ -79,10 +79,11 @@ Make sure to install all dependencies before running the API.
 
 ### Author
 Karthikeyan V
-Asst. Professor – JD College
+Asst. Professor – JD College \n
 kvenkatesan@jdcoem.ac.in
 
 ### License
 
 This repository is open for educational purposes only.
+
 
