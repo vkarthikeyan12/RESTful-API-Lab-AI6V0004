@@ -67,7 +67,7 @@ The API will run on http://localhost:5000/.
 
 ### Testing the API
 ```
-Use Postman or cURL commands provided in each experiment folder to test API endpoints.
+Use cURL commands provided in each experiment folder to test API endpoints.
 ```
 
 ### Notes
@@ -85,3 +85,4 @@ kvenkatesan@jdcoem.ac.in
 ### License
 
 This repository is open for educational purposes only.
+
