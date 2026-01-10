@@ -35,7 +35,7 @@ Students will use **Python Flask** to build APIs and use **cURL** to test them.
    - Implement structured error handling with proper HTTP status codes.  
 
 9. **Testing APIs using Postman Collection**  
-   - Automate API testing and validate responses using Postman.  
+   - Automate API testing and validate responses using Hoppscotch.  
 
 10. **Deploying a REST API**  
     - Host APIs on localhost
@@ -87,6 +87,7 @@ kvenkatesan@jdcoem.ac.in
 ### License
 
 This repository is open for educational purposes only.
+
 
 
 
