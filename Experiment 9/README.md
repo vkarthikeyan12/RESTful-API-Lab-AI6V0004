@@ -1,4 +1,4 @@
-# Experiment 9: Testing APIs using Postman Collection (via Python & curl)
+# Experiment 9: Testing APIs using Hoppscotch (via Python)
 
 ## 🎯 Objective
 Automate API testing using scripts instead of Hoppscotch.
@@ -94,4 +94,5 @@ pw.test("Status code is 5xx", ()=> {
   "id": 501
 }
 ```
+
 
